@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/windborne/*"
+  to = "https://a.windbornesystems.com/:splat"
+  status = 200
